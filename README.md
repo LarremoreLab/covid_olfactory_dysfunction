@@ -7,7 +7,7 @@ The code requires:
 - numpy 
 - matplotlib
 
-Please see `Example Calculations.ipynb` for example calculations related to the manuscript. 
+Please see `py/Replication.ipynb` for code to reproduce the figures and table of the manuscript. Contact daniel.larremore@colorado.edu with questions.  
 
 # License
 
